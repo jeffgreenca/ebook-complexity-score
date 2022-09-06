@@ -38,7 +38,6 @@ full-text scan of the extracted content.
 ```
 python .\ebook-analysis.py
 flesch  smog    dale-chall      book
-73.68   10.0    8.11    Jack Reacher's Rules - Lee Child
 84.78   7.7     6.06    Second Son - Lee Child
 85.69   7.1     5.12    Worth Dying For - Lee Child
 85.99   8.1     6.25    Deep Down - Lee Child
@@ -58,7 +57,7 @@ flesch  smog    dale-chall      book
 87.72   6.8     1.21    Die Trying - Lee Child
 87.72   6.8     4.88    The Enemy - Lee Child
 87.82   6.8     1.23    Running Blind - Lee Child
-88.02   7.3     5.02    Night School_ (Jack Reacher 21) - Lee Child
+88.02   7.3     5.02    Night School - Lee Child
 96.48   6.5     1.16    Persuader - Lee Child
 96.89   6.3     1.11    Killing Floor - Lee Child
 71.04   10.3    5.63    Excession - Iain M. Banks
@@ -69,7 +68,7 @@ flesch  smog    dale-chall      book
 78.18   8.7     6.2     A Song of Stone - Iain M. Banks
 78.48   8.3     5.79    The Wasp Factory - Iain M. Banks
 79.5    8.6     5.89    Feersum Endjinn - Iain M. Banks
-79.9    9.1     5.61    Whit_ Or, Isis Amongst the Unsaved - Iain M. Banks
+79.9    9.1     5.61    Whit Or, Isis Amongst the Unsaved - Iain M. Banks
 80.21   8.3     5.82    Complicity - Iain M. Banks
 80.92   8.2     5.61    Walking on Glass - Iain M. Banks
 80.92   9.3     5.61    Transition - Iain M. Banks
